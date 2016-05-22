@@ -1,2 +1,6 @@
 @echo off
-if exist %userprofile%\Desktop\*overwatch*.* (start delerwatch.cmd) else exit
+:loop
+if exist %userprofile%\Desktop\*overwatch*.* (goto start) else goto loop
+exit
+:start
+start delerwatch.cmd
