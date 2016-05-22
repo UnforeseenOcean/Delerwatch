@@ -1,5 +1,7 @@
 # Delerwatch
-Annoying test program which plays audio and moves windows around if a file named Overwatch is found
+Annoying test program which plays audio and moves windows around if a file named Overwatch is found.
+
+You're supposed to run delerw.bat.
 
 ## WTF?
 Yes, I know what you're thinking. "Why hate Overwatch? It's a great game so far!"
