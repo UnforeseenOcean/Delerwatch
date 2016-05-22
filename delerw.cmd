@@ -1,6 +1,6 @@
 @echo off
-C:
-cd %userprofile%
-cd Desktop
+:start
 ::for /D /R %%c in (*overwatch*) do playwav yah.wav
-for /R %%f in (*overwatch*.*) do start delerwatch.cmd
+if exist %userprofile%\Desktop\*overwatch*.* (start delerwatch.cmd) else goto loop
+:loop
+goto start
