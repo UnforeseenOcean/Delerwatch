@@ -1,6 +1,7 @@
 # Delerwatch
 Annoying test program which plays audio and moves windows around if a file named Overwatch is found.
-
+Shortcuts are no exception; they also count as files (since they're actually "stuff.lnk" files)
+Anything with the word "Overwatch" will trigger the thing.
 You're supposed to run delerw.bat.
 
 ## WTF?
