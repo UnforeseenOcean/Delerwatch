@@ -9,5 +9,5 @@ Random, randy, 1, %A_ScreenHeight%
 ; Y += randy
 WinMove, A, , randx, randy
 ; WinMove, A, overwatch, randx, randy
-Sleep 1000
+Sleep 100
 }
