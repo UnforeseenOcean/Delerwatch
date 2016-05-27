@@ -22,7 +22,9 @@ Scram off. :fu:
 It's called Руки Вверх - Танцуй без меня (or Руки Вверх - Танцуй), according to SoundHound. It's sped up by 165% and remixed by Kitchen Disease.
 
 # DISCLAIMER - READ THIS.
-This software is provided "as-is" without any warranty or guarantee that this software is safe to use out-of-the-box. 
+This software is provided "as-is" without any warranty or guarantee that this software is safe to use out-of-the-box. Before using, modifying and executing the script and compiled executable on your work computer, inspect the code thoroughly and test it on the VM first. If you can't use virtual machine, use sandboxing software, though it's less safe than using VM. You don't want this to **ACTUALLY** destroy your game save files and/or get you banned from Steam, Battle.Net and other platforms!
+
+This is intended to be used in a research environment. Please _DO **NOT** ADD_ any code that spreads this script and/or executable to other systems without letting the user **KNOW** what has changed.
 
 ## EULA
 
