@@ -15,7 +15,7 @@ This is for Windows platform only, and I can't be arsed enough to build a WINE c
 This uses AutoHotkey and other components like Batch and VBS. Yeah, curse me if you want.
 
 ## your like 10yr old kid lol
-Scram off.
+Scram off. :fu:
 
 ## What's the song called?
 It's called Руки Вверх - Танцуй без меня (or Руки Вверх - Танцуй), according to SoundHound. It's sped up by 165% and remixed by Kitchen Disease.
