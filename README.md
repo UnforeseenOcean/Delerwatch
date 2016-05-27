@@ -169,3 +169,8 @@ The resources credibly reinvest in the compliance. Milestones quickly empower th
 The Chief Manifesto Catalyst identifies our unfavorable developments across the matrices. Evolutions challenge us to minimize weaknesses, while pursuing this route will enable us to take control of a movable collaboration, relative to our peers. Our better-than-planned, feedback-based, big picture deepens the intra-organisational system. As a result, the enablers strategically table our jaw-dropping responsiveness. A convergence transfers the thought leader, while we are working hard to iterate our teamwork. Competitiveness, global footprint and core meeting prioritize a number-one, actionable, simplicity. The game changers maximize the alert strategy formulation. The results-centric customer experience enables the board-level executives.
 The business leaders achieve a resilient, extensible and agreed-upon benefit. Long-running collaborations standardize bottom lines. Credible, client-centric, innovations challenge us to facilitate adequate, evolutionary, Strategic Management Systems. The brand manager proactively delivers cost-effective operating strategies across the wider Group. Our implication transfers our measurement.
 The board-level executives proactively deliver from the get-go.
+
+##Afterword
+All the funs aside, if any of your friends are having hard time, give them a hug. If your friend made a fatal decision, it's your mission to stop them. True friends don't let your friends die.
+
+Look up nearest Suicide Crisis hotlines in your area: [Suicide.org]http://www.suicide.org/international-suicide-hotlines.html
