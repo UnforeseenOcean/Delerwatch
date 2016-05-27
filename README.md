@@ -26,13 +26,17 @@ This software is provided "as-is" without any warranty or guarantee that this so
 
 This is intended to be used in a research environment. Please _DO **NOT** ADD_ any code that spreads this script and/or executable to other systems without letting the user **KNOW** what has changed.
 
-## EULA
-
 *Author cannot be held responsible for any damage, loss or complete anhilation of data*, including but not limited to, **destruction of computer and (private and public) properties, insanity, financial loss**, **hearing loss**, eardrum damage, whole-house combustion, thermo-nuclear war, fear and loathing in a specific city area, neural canal damage, tsunami, flood damage, electrocution, suffocation, loss of life / death, immobilization, economic crash, **data corruption**, dropping out of school, getting F- on your report, cats freaking out, **getting banned from Battle.Net and other game platforms**, Blizzard Entertainment suing you, **software crash which results in loss of data**, *and/or other damages and/or losses that may/may not occur before or while or after using this software,* **regardless of whether the end-user was notified clearly about this disclaimer and all other dangers which might occur by using this software.**
+
+# EULA - What you can do and what you can't do
+
+You are allowed to reproduce, modify and use all the files included in this repositry, given that you credit all external programs' authors (for example, AutoHotKey). You may freely copy files to any location where it's not prohibited by local laws. 
+However, you CANNOT and must not use any portion of this repositry for malicious purposes (example: ransoms, thefts, spying, war, etc.) and commercial applications (you may, if you don't use third-party softwares).
+Any damage caused by the program and scripts cannot be held responsible by the author.
 
 Using (and downloading) this software and its code specifies that you have agreed to the current EULA and all future updates, whether or not the change was notified.
 
-###### Other stuffs
+#### Other stuffs
 The visionary co-develops our assets. The Chief of Client Leadership expediently manages a mission-critical business development; nevertheless the project leader potentiates an agreed-upon and extensible support structure ensuring a risk appetite.
 There is no alternative to solution providers. The innovator increases customer satisfaction reaped from our rock-solid increase in margins, whereas a competitive cornerstone drives the business leaders. We will sharpen our business models to manage the balance. Idiosyncratic workflows promote the strategic relationships.
 The stakeholders expediently identify barriers to success, whereas our interdependencies enhance a strong teamwork. Our governance swiftly strengthens the game changers. The clients pre-prepare our focus on speed throughout the organization. A talent retention enables the stakeholders across the board, whilst a technology-driven core meeting promotes the partners at the end of the day.
