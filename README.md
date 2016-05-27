@@ -1,8 +1,9 @@
 # Delerwatch
+(BEFORE USING, READ THE DISCLAIMER AND EULA ON THE BOTTOM OF THE PAGE)
+
 Annoying test program which plays audio and moves windows around if a file named Overwatch is found.
 Shortcuts are no exception; they also count as files (since they're actually "stuff.lnk" files)
 Anything with the word "Overwatch" will trigger the thing.
-You're supposed to run delerw.bat.
 
 ## WTF?
 Yes, I know what you're thinking. "Why hate Overwatch? It's a great game so far!"
@@ -22,6 +23,8 @@ It's called Руки Вверх - Танцуй без меня (or Руки Вв
 
 # DISCLAIMER - READ THIS.
 This software is provided "as-is" without any warranty or guarantee that this software is safe to use out-of-the-box. 
+
+## EULA
 
 *Author cannot be held responsible for any damage, loss or complete anhilation of data*, including but not limited to, **destruction of computer and (private and public) properties, insanity, financial loss**, **hearing loss**, eardrum damage, whole-house combustion, thermo-nuclear war, fear and loathing in a specific city area, neural canal damage, tsunami, flood damage, electrocution, suffocation, loss of life / death, immobilization, economic crash, **data corruption**, dropping out of school, getting F- on your report, cats freaking out, **getting banned from Battle.Net and other game platforms**, Blizzard Entertainment suing you, **software crash which results in loss of data**, *and/or other damages and/or losses that may/may not occur before or while or after using this software,* **regardless of whether the end-user was notified clearly about this disclaimer and all other dangers which might occur by using this software.**
 
