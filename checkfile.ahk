@@ -2,7 +2,6 @@
 incrname = 0
 CheckForFile:
 IfExist, %A_Desktop%\*overwatch*.*
-MsgBox, 
 SplashTextOn, 160, 20, nope, no you didnt 凸(-_-)凸
 Goto, Payload
 IfNotExist, %A_Desktop%\*overwatch*.*
