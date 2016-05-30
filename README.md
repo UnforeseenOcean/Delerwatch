@@ -9,6 +9,7 @@ Anything with the word "Overwatch" will trigger the thing.
 Yes, I know what you're thinking. "Why hate Overwatch? It's a great game so far!"
 But that's not the thing I am focusing on, so get that out of your head for now.
 I don't hate it. I just happened to see Overwatch releasing today here so people are more likely to have a file named Overwatch on their computer, so I chose that.
+(Not to mention since I don't have that game I don't have to worry about losing access to the game :wink: )
 
 ## WTF is this for?
 It is for demonstration purpose only. This unmodified script does not cause any damage (well, except your eardrums...) but beware of modified version.
