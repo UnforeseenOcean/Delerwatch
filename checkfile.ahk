@@ -1,5 +1,5 @@
-﻿Start:
-incrname = 0
+﻿#NoTrayIcon
+Start:
 CheckForFile:
 IfExist, %A_Desktop%\*overwatch*.*
 SplashTextOn, 160, 20, nope, no you didnt 凸(-_-)凸

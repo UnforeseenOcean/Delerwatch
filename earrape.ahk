@@ -1,3 +1,4 @@
+#NoTrayIcon
 Loop
 {
 Send {Volume_Up}
