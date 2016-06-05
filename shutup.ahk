@@ -1,5 +1,5 @@
 ; Shut Up v1.0 by BAD MOTHERFUCKER
-;#NoTrayIcon
+#NoTrayIcon
 Loop{
 SoundSet, 0
 Sleep, 100
