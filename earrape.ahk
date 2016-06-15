@@ -1,6 +1,7 @@
 #NoTrayIcon
+; A SoundPlay module
+; Yes, I know this is fucking lazy!
 Loop
 {
-Send {Volume_Up}
 SoundPlay, yah.wav, 1
 }

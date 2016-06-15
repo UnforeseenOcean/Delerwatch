@@ -1,0 +1,64 @@
+1. New Payloads
+Check for date and time, and if equal to date X with time Y, do something different
+If date=x, time=y
+Do something
+Else goto start
+
+Check for registry and find where Overwatch is installed, then swap the executable and game files with garbage data
+ReadReg, (key)
+Goto (key)
+Get files
+Del (files)
+Write (files)
+Terminate Task Manager and Registry Editor if it is found running
+IfWinFound, taskmgr
+Disable, taskmgr
+IfWinFound, regedit
+Disable, regedit
+Else goto start
+
+Instead of gradually increasing the volume, fix it to 100% and disable muting
+Set volume 100
+If mute=true
+Set mutebtn=false
+Else Set volume 100
+
+Scrambling screens
+(snip from Welcomer)
+
+Mouse disorientation
+Set mousepos -250, -250 
+
+Year 1900, 0:00
+Set time 0:00
+Set year 1900
+
+Post-payload payload (random mouse freeze, etc.)
+Get current mousepos
+Sleep, 200
+Set mousepos pastmousepos
+
+2. Minor changes
+New names for the internal modules (comes straight off The Witcher series, with the effects taken into account)
+(self explanatory)
+
+New icons (old one was made with Paint and very nasty ExpandPic.exe thing)
+(self explanatory)
+
+Check for files every 10 seconds instead of 1 millisecond
+Check file
+Sleep, 6000
+
+Do not check for any languages other than English
+(self explnanatory)
+
+3. Removed features
+Fail star
+
+Unicode shortcut search and destroy (that was causing more problems)
+
+Gradual volume increment
+Set volume 100
+Loop
+
+Debug keys (Trigger payload, stop, etc.)
