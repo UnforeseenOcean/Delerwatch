@@ -7,7 +7,7 @@ Random, dormant, 4500, 10000
 Sleep, %dormant%
 Random, active, 1500, 5000
 SoundPlay, *16
-SplashTextOn, 170, 30, very important message, your a faggit u kno dat m9
+SplashTextOn, 190, 30, how many times do I have to tell you, good gamers do not cheat
 BlockInput, On
 Sleep, %active%
 BlockInput, Off
