@@ -1,5 +1,7 @@
 #NoTrayIcon
-;Volume fixer module
+; Volume fixer module
+; This will prevent you from lowering th evolume or muting it under any circumstances
+; But for the Master device only.
 Loop{
 SoundGet, master_mute, , mute
 if master_mute = ON
