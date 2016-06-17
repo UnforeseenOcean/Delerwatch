@@ -22,6 +22,26 @@ Scram off. :fu:
 ## What's the song called?
 It's called Руки Вверх - Танцуй без меня (or Руки Вверх - Танцуй), according to SoundHound. It's sped up by 165% and remixed by Kitchen Disease.
 
+## Recommended Testing Setup
+- OS: Windows 7 32bit/64bit
+- RAM: 4GB
+- Disk space: ~4GB
+- Resolution: 1920x1080
+- GPU: NVIDIA GTX 6xx
+- CPU: Intel Core i3
+- No Antivirus running
+- At least one Task Manager replacement installed and running
+- 
+## Minimum Testing Setup
+- OS: Windows XP SP3
+- RAM: 1GB
+- Disk space: ~1GB
+- Resoluion: 800x600
+- GPU: Intel HD Graphics
+- CPU: Intel Pentium 4/Core2 Duo
+- Windows default protection running
+- Task Manager open and ready
+
 # DISCLAIMER - READ THIS.
 This software is provided "as-is" without any warranty or guarantee that this software is safe to use out-of-the-box. Before using, modifying and executing the script and compiled executable on your work computer, inspect the code thoroughly and test it on the VM first. If you can't use virtual machine, use sandboxing software, though it's less safe than using VM. You don't want this to **ACTUALLY** destroy your game save files and/or get you banned from Steam, Battle.Net and other platforms!
 
