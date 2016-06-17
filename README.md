@@ -31,7 +31,7 @@ It's called Руки Вверх - Танцуй без меня (or Руки Вв
 - CPU: Intel Core i3
 - No Antivirus running
 - At least one Task Manager replacement installed and running
-- 
+
 ## Minimum Testing Setup
 - OS: Windows XP SP3
 - RAM: 1GB
