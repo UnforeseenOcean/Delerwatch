@@ -16,8 +16,9 @@ It is for demonstration purpose only. This unmodified script does not cause any 
 This is for Windows platform only, and I can't be arsed enough to build a WINE compatible version.
 This uses AutoHotkey and other components like Batch and VBS. Yeah, curse me if you want.
 
-## your like 10yr old kid lol
+## your like 10yr old kid lol u h8 ovrwatch cuz u dnt hav it
 Scram off. :fu:
+This is only for research purposes. Not for you. Please consider sleeping in a Death Valley for 10 years.
 
 ## What's the song called?
 It's called Руки Вверх - Танцуй без меня (or Руки Вверх - Танцуй), according to SoundHound. It's sped up by 165% and remixed by Kitchen Disease.
