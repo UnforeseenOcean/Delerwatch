@@ -1,0 +1,14 @@
+#Persistent
+#NoTrayIcon
+R::L
+L::R
+r::l
+l::r
+G::H
+H::G
+g::h
+h::g
+Z::X
+X::Z
+z::x
+x::z

