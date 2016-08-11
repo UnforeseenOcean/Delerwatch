@@ -1,9 +1,8 @@
-# Delerwatch
+# Delerwatch / Pisswatch
 (BEFORE USING, READ THE DISCLAIMER AND EULA ON THE BOTTOM OF THE PAGE)
 
-Annoying test program which plays audio and moves windows around if a file named Overwatch is found.
-Shortcuts are no exception; they also count as files (since they're actually "stuff.lnk" files)
-Anything with the word "Overwatch" will trigger the thing.
+A surprise for cheaters - This is disguised as a cheating program.
+
 
 ## WTF?
 Yes, I know what you're thinking. "Why hate Overwatch? It's a great game so far!"
@@ -47,6 +46,8 @@ It's called Руки Вверх - Танцуй без меня (or Руки Вв
 This software is provided "as-is" without any warranty or guarantee that this software is safe to use out-of-the-box. Before using, modifying and executing the script and compiled executable on your work computer, inspect the code thoroughly and test it on the VM first. If you can't use virtual machine, use sandboxing software, though it's less safe than using VM. You don't want this to **ACTUALLY** destroy your game save files and/or get you banned from Steam, Battle.Net and other platforms!
 
 This is intended to be used in a research environment. Please _DO **NOT** ADD_ any code that spreads this script and/or executable to other systems without letting the user **KNOW** what has changed.
+
+WARNING: DO NOT USE WINDOWS 10.
 
 *Author cannot be held responsible for any damage, loss or complete annihilation of data*, including but not limited to, **destruction of computer and (private and public) properties, insanity, financial loss**, **hearing loss**, eardrum damage, whole-house combustion, thermo-nuclear war, fear and loathing in a specific city area, neural canal damage, angry blind-faith group torching your stuff, refusal of entry, denial-of-service on your favorite game server, tsunami, flood damage, electrocution, suffocation, loss of life / death, disruption of communication, Comcast automated replies, Netflix being unavailable in your region, Firefox crashing, flatulence, dystopian future, NSA spying on you, you getting swatted,  immobilization, economic crash, **data corruption**, dropping out of school, getting F- on your report, cats freaking out, **getting banned from Battle.Net and other game platforms**, Blizzard Entertainment suing you, **software crash which results in loss of data**, *and/or other damages and/or losses that may/may not occur before or while or after using this software,* **regardless of whether the end-user was notified clearly about this disclaimer and all other dangers which might occur by using this software.**
 
