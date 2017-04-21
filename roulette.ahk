@@ -8,7 +8,7 @@ DetectHiddenWindows, On
 start:
 Random, delay, 1000, 10000
 Sleep, delay
-Random, selection, 0, 18
+Random, selection, 0, 24
 if selection = 0
 {
 	name := "NoPayload"
